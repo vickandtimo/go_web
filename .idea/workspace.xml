@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe824091-3d95-4297-816d-b954a3b51d0f" name="默认更改列表" comment="" />
+    <list default="true" id="fe824091-3d95-4297-816d-b954a3b51d0f" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson08/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson08/xss.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/.idea/lesson09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/lesson09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/statics/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/statics/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/statics/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/statics/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/templates/posts/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/templates/posts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/templates/posts/index.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson09/templates/users/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/.idea/lesson10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson08/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/lesson08/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +47,16 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1lxOFkrpwwL3p0c8ghrZXWeY5qv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,19 +65,21 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson08" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson04" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson08" />
       <recent name="$PROJECT_DIR$/lesson07" />
       <recent name="$PROJECT_DIR$/lesson06" />
       <recent name="$PROJECT_DIR$/lesson05" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lesson04" />
     </key>
   </component>
   <component name="RunManager">
@@ -82,11 +121,11 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1409" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1608791669563" />
-    <state x="-1209" y="300" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608609818393">
+    <state x="-1209" y="300" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608861146751">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="474" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1608548942082" />
-    <state x="-1209" y="300" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1608609818393" />
+    <state x="-1209" y="300" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1608861146751" />
     <state x="-742" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1608797647468">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
