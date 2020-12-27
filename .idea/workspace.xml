@@ -2,36 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe824091-3d95-4297-816d-b954a3b51d0f" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson08/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson08/xss.tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/.idea/lesson09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/lesson09" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/statics/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/statics/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/statics/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/statics/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/templates/posts/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/templates/posts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/templates/posts/index.tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09/templates/users/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/.idea/lesson10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/.idea/lesson12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/lesson12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/lesson13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson08/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/lesson08/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson11/lesson11" beforeDir="false" afterPath="$PROJECT_DIR$/lesson11/lesson11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson11/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/lesson11/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson08" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
