@@ -1,0 +1,21 @@
+{
+	"query": {
+		"bool": {
+			"must": [{
+					"simple_query_string": {
+						"query": "beautiful mind",
+						"fields": ["title"]
+					}
+				},
+				{
+					"range": {
+						"year": {
+							"gte": 2016,
+							"lte": 2018
+						}
+					}
+				}
+			]
+		}
+	}
+}
